@@ -7,18 +7,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6ec5a77-e36b-40be-be87-1acacefbe754" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java_project/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java_project/.idea/libraries/Maven__org_jsoup_jsoup_1_11_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java_project/src/com/company/productImage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java_project/target/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java_project/target/target.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java_project/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java_project/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java_project/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java_project/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java_project/java_project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../java_project/java_project.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java_project/out/production/java_project/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../java_project/out/production/java_project/com/company/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java_project/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java_project/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/HelloWorld.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,7 +25,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1SYVmea2yMNz3WNyaHJw2gHVUKL" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -141,6 +132,7 @@
       <workItem from="1571749279663" duration="600000" />
       <workItem from="1571749902927" duration="8450000" />
       <workItem from="1571827970129" duration="1024000" />
+      <workItem from="1571902958193" duration="125000" />
     </task>
     <servers />
   </component>
@@ -152,7 +144,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
